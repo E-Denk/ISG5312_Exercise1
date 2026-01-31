@@ -9,9 +9,12 @@
 #SBATCH --mail-type=END
 #SBATCH --mail-user=denker@uchc.edu
 #SBATCH -o %x_%j.out
-#SBATCH -e %x_%j.err
-# first of two edits
+
+# EDENK was not here
+# second edit
 # trivial edit added after first commit
+
+
 
 hostname
 date
