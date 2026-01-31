@@ -11,7 +11,7 @@
 #SBATCH -o %x_%j.out
 #SBATCH -e %x_%j.err
 
-# EDENK EDENK EDENK
+# EDENK WAS HERE
 
 hostname
 date
