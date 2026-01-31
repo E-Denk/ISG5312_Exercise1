@@ -11,7 +11,7 @@
 #SBATCH -o %x_%j.out
 #SBATCH -e %x_%j.err
 
-# trivial edit added after first commit
+# EDENK EDENK EDENK
 
 hostname
 date
