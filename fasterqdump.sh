@@ -8,12 +8,6 @@
 #SBATCH --qos=general
 #SBATCH --mail-type=END
 #SBATCH --mail-user=denker@uchc.edu
-#SBATCH -o %x_%j.out
-
-# EDENK was not here
-# second edit
-# trivial edit added after first commit
-
 
 
 hostname
